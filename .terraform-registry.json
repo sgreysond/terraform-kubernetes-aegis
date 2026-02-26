@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "metadata": {
+    "namespace": "sgreysond",
+    "name": "aegis",
+    "provider": "kubernetes",
+    "description": "Terraform module to deploy the VeliKey Aegis Helm chart on Kubernetes"
+  }
+}
